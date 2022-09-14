@@ -1,2 +1,5 @@
 # Machine-Learning-Projects
-In this repository I will upload my Machine Learning practice projects.
+En este repositorio subiré mis proyectos prácticos.
+
+1. Prediccion de precios de casas en Boston
+2. Chatbot básico construido con tkinter y Transformers 🤗 en Español!!!
