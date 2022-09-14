@@ -1,4 +1,4 @@
-## Chatbot básico construido con tkinter y Transformers 🤗
+## Chatbot básico construido con tkinter y Transformers 🤗 En Español!!!
 
 La carpeta contiene:
 
