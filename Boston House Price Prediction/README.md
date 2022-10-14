@@ -1,10 +1,11 @@
 **Boston House Price Prediction Project**
-In this project I will develop an end to end prediction model to evaluate house prices from the boston house prices dataset.
+---
+Este proyecto es el desarrollo de un modelo de predicción para evaluar precios de casas a partir del dataset de *Precios de Casas de Boston*.
 
-In this repository you will find three files:
+En este repositorio encontrarás tres archivos:
 
-- Boston-House-Price-Prediction-Project: It is a detailed project development, data analysis and visualization, data transformation and some predictions.
+- `Boston-House-Price-Prediction-Project.ipynb`: Es un desarrollo detallado del proyecto, análisis y visualización de datos, transformación de datos y algunas predicciones.
 
-- Valuation_Tool: Development of the price evaluation tool.
+- `Valuation_Tool.ipynb`: Desarrollo de la herramienta de evaluación de precios.
 
-- boston_valuation: Python module with everything we developed to be able to import it and calculate the Boston house prices.
+- `boston_valuation.py`: Script de Python con todo lo desarrollado para poder importarlo y calcular los precios de las casas en Boston.
