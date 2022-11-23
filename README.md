@@ -1,4 +1,4 @@
-# Machine-Learning-Projects
+# Algunos Proyectos: ML - IA
 En este repositorio subiré mis proyectos prácticos.
 
 1. Prediccion de precios de casas en Boston
