@@ -4,6 +4,7 @@ Con la libreria de 🤗 Hugging Face [🧨 Diffusers](https://github.com/hugging
 
 La carpeta contiene:
 - Stable_Diffusion_con🧨_diffusers.ipynb: Notebook con el codigo para usar.
+- Stable_Diffusion V2 y V1.4.ipynb: Notebook con el codigo para usar ambos modelos
 
 Se necesita una GPU para poder correrlo, es recomendable usar Google Colab.
 
