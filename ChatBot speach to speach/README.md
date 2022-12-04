@@ -8,3 +8,5 @@ La carpeta contiene:
 - chatbot_speach.ipynb: Notebook con el codigo para usar.
 
 Se recomienda una GPU para poder correrlo (ej usar Google Colab).
+
+Para ver demo en Hugging Face 🤗 seguir [este enlace](https://huggingface.co/spaces/VaneM/chatbot-speach-to-speach)
