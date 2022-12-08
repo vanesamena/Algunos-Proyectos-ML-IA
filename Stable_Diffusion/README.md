@@ -3,6 +3,7 @@
 Con la libreria de 🤗 Hugging Face [🧨 Diffusers](https://github.com/huggingface/diffusers). 
 
 La carpeta contiene:
+- Interfaz_Stable_Difussion_2_0.ipynb: Cofigo para generar una interfaz gráfica "User Friendly" con `gradio` para generar imagenes. Prompts en español!
 - Stable_Diffusion_con🧨_diffusers.ipynb: Notebook con el codigo para usar.
 - Stable_Diffusion V2 y V1.4.ipynb: Notebook con el codigo para usar ambos modelos
 
